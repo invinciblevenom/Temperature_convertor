@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="fahrenheit_result">Temperature in Fahrenheit: %.2f</string>
+    <string name="enter_temperature_in_celsius">Enter temperature in Celsius</string>
+</resources>
